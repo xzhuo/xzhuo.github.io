@@ -2,31 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Xiaoyu Zhuo
     - name: Languages
-      value: English, German
+      value: Madarin, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D
+      institution: University of Utah
+      year: 2016
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Human genetics
+        - title: Endogenous retrovirus evolution in mammalian genomes
+
+    - title: M.S
+      institution: Wuhan University
+      year: 2007
       description:
-        - Description 1.
-        - Description 2.
+        - Molecular biology and biochemistry
+    - title: B.S
+      institution: Wuhan University
+      year: 2004
+      description:
+        - Life science
 
 - title: Experience
   type: time_table

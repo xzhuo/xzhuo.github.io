@@ -85,6 +85,90 @@
     }
   ],
   "publications": [
+    {
+      "name": "Transposable Elements Are Major Contributors to the Origin, Diversification, and Regulation of Vertebrate Long Noncoding RNAs",
+      "releaseDate": "2013-04",
+      "publisher": "PLoS Genetics",
+      "url": "http://www.plosgenetics.org/article/info%3Adoi%2F10.1371%2Fjournal.pgen.1003470"
+    },
+    {
+      "name": "Genome-wide characterization of endogenous retroviruses in the bat Myotis lucifugus reveals recent and diverse infections.",
+      "releaseDate": "2013-08",
+      "publisher": "Journal of Virology",
+      "url": "http://jvi.asm.org/cgi/doi/10.1128/JVI.00892-13"
+    },
+    {
+      "name": "Cross-Species Transmission and Differential Fate of an Endogenous Retrovirus in Three Mammal Lineages.",
+      "releaseDate": "2015-11",
+      "publisher": "PLoS Pathogens",
+      "url": "http://dx.plos.org/10.1371/journal.ppat.1005279"
+    },
+    {
+      "name": "Domestic chickens activate a piRNA defense against avian leukosis virus.",
+      "releaseDate": "2017-04",
+      "publisher": "eLife",
+      "url": "http://elifesciences.org/lookup/doi/10.7554/eLife.24695"
+    },
+    {
+      "name": "The NIEHS TaRGET II Consortium and environmental epigenomics.",
+      "releaseDate": "2018-03",
+      "publisher": "Nature Biotechnology",
+      "url": "http://eutils.ncbi.nlm.nih.gov/entrez/eutils/elink.fcgi?dbfrom=pubmed&id=29509741&retmode=ref&cmd=prlinks"
+    },
+    {
+      "name": "Co-opted transposons help perpetuate conserved higher-order chromosomal structures.",
+      "releaseDate": "2020-01",
+      "publisher": "Genome Biology",
+      "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1916-8"
+    },
+    {
+      "name": "Exploring the coronavirus pandemic with the WashU Virus Genome Browser",
+      "releaseDate": "2020-10",
+      "publisher": "Nature Genetics",
+      "url": "https://www.nature.com/articles/s41588-020-0697-z"
+    },
+    {
+      "name": "Epigenomic differences in the human and chimpanzee genomes are associated with structural variation",
+      "releaseDate": "2021-02",
+      "publisher": "Genome Research",
+      "url": "http://genome.cshlp.org/lookup/doi/10.1101/gr.263491.120"
+    },
+    {
+      "name": "WashU Epigenome Browser update 2022",
+      "releaseDate": "2022-07-05",
+      "publisher": "Nucleic Acids Research",
+      "url": "https://academic.oup.com/nar/article/50/W1/W774/6567479"
+    },
+    {
+      "name": "Functional characterization of enhancer activity during a long terminal repeat's evolution",
+      "releaseDate": "2022-10-03",
+      "publisher": "Genome Research",
+      "url": "https://genome.cshlp.org/content/early/2022/10/03/gr.276863.122"
+    },
+    {
+      "name": "Amniotes co-opt intrinsic genetic instability to protect germ-line genome integrity",
+      "releaseDate": "2023-02-13",
+      "publisher": "Nature Communications",
+      "url": "https://www.nature.com/articles/s41467-023-36354-x"
+    },
+    {
+      "name": "Comparing genomic and epigenomic features across species using the WashU Comparative Epigenome Browser",
+      "releaseDate": "2023-05-08",
+      "publisher": "Genome Research",
+      "url": "https://genome.cshlp.org/content/33/5/824"
+    },
+    {
+      "name": "Regulatory Transposable Elements in the Encyclopedia of DNA Elements",
+      "releaseDate": "2023-09-06",
+      "publisher": "biorxiv",
+      "url": "https://www.biorxiv.org/content/10.1101/2023.09.05.556380v1"
+    },
+    {
+      "name": "Modbed track: Visualization of modified bases in single-molecule sequencing",
+      "releaseDate": "2023-12-13",
+      "publisher": "Cell Genomics",
+      "url": "https://www.sciencedirect.com/science/article/pii/S2666979X23002999"
+    }
   ],
   "Teaching experience": [
     {

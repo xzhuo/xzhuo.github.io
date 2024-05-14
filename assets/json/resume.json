@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Xiaoyu Zhuo",
-    "label": "evolutionary biologist",
-    "image": "",
+    "work": "evolutionary biologist",
+    "image": "profile.jpg",
     "email": "xzhuo@wustl.edu",
     "url": "https://xzhuo.github.io/",
     "summary": "I am an evolutionary biologist. I am interested in understanding the impact of structural variations, especially transposable element insertions, to evolution. I am currently working for Dr. Ting Wang at Washington University in St. Louis.",
@@ -41,7 +41,7 @@
       "position": "Research scientist",
       "url": "https://chempartner.com/",
       "startDate": "2007-08-01",
-      "endDate": "2007-05-31",
+      "endDate": "2010-05-31",
       "summary": "Drug discovery."
     }
   ],

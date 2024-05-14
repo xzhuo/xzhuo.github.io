@@ -6,10 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Room 5213, 4515 McKinley Avenue</p>
+    <p>hiking Castlewood</p>
 
 news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"

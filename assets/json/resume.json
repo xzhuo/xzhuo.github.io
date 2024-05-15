@@ -5,7 +5,7 @@
     "image": "prof_head.jpg",
     "email": "xzhuo@wustl.edu",
     "url": "https://xzhuo.github.io/",
-    "summary": "I am an evolutionary biologist. I am interested in understanding the impact of structural variations, especially transposable element insertions, to evolution. I am currently working for Dr. Ting Wang at Washington University in St. Louis.",
+    "summary": "I am an evolutionary biologist nterested in understanding the impact of structural variations, especially transposable element insertions, to evolution. I am currently working for Dr. Ting Wang at Washington University in St. Louis.",
     "location": {
       "city": "St. Louis",
       "countryCode": "US",
@@ -98,21 +98,98 @@
       "institution": "University of Texas at Arlington"
     }
   ],
+  "presentations": [
+    {
+      "name": "Is it Me You’re Looking For?: Multi-Platform and Cross-Site Evaluation of Technologies and Methods used for DNA Methylation Profiling.",
+      "date": "2024",
+      "conference": "ABRF annual meeting",
+      "location": "Minneapolis, MN",
+      "type": "Invited talk"
+    },
+    {
+      "name": "Third-Generation Sequencing Reveals the Methylation Pattern of Transposable Element Insertions in Human.",
+      "date": "2023",
+      "conference": "Keystone Symposia: Transposable Elements at the Crossroads of Evolution, Health and Disease",
+      "location": "Whistler, Canada",
+      "type": "Short talk"
+    },
+    {
+      "name": "Accurately characterizing CpG methylation of polymorphic insertions within the human population by direct methylation calling using third-generation sequencing.",
+      "date": "2022",
+      "conference": "Human Pangenome Reference Consortium Annual Meeting",
+      "location": "Washington DC",
+      "type": "Lighting talk and poster"
+    },
+    {
+      "name": "Impact of structural variations on the epigenetic landscape of the human genome.",
+      "date": "2020",
+      "conference": "Cold Spring Harbor laboratory Biology of Genomes",
+      "location": "virtual",
+      "type": "Poster"
+    },
+    {
+      "name": "Structural variations shaped epigenetic landscape of human genome.",
+      "date": "2019",
+      "conference": "FASEB Science Research Conference: MOBILE DNA",
+      "location": "Palm Springs, CA",
+      "type": "Lighting talk and poster"
+    },
+    {
+      "name": "Find a Project That Excites You.",
+      "date": "2019",
+      "conference": "Washington University postdoc symposium",
+      "location": "St Louis, MO",
+      "type": "Inspirational talk"
+    },
+    {
+      "name": "Human-specific insertions and deletions shaped by our epigenetic landscape.",
+      "date": "2019",
+      "conference": "Washington University postdoc symposium",
+      "location": "St Louis, MO",
+      "type": "Poster"
+    },
+    {
+      "name": "Epigenetic Landscape of Human Genome Shaped by Human-specific INDELs.",
+      "date": "2018",
+      "conference": "Cold Spring Harbor Asia Systems Biology of Gene Regulation & Genome Editing",
+      "location": "Suzhou China",
+      "type": "Poster"
+    },
+    {
+      "name": "Tissue-specific Hypomethylation of Transposable Elements Are Potential Promoters and Enhancers.",
+      "date": "2017",
+      "conference": "FASEB Science Research Conference: MOBILE DNA IN MAMMALIAN GENOMES",
+      "location": "Big sky, MT",
+      "type": "Poster"
+    },
+    {
+      "name": "Fly High or Stay Low: Two Strategies in ERV Evolution.",
+      "date": "2014",
+      "conference": "Keystone Symposia: Mobile Genetic Elements and Genome Evolution",
+      "location": "Santa Fe, NM",
+      "type": "Poster"
+    },
+    {
+      "name": "Endogenous Retroviruses: Reinfection vs. Retrotransposition.",
+      "date": "2013",
+      "conference": "FASEB Science Research Conference: MOBILE DNA IN MAMMALIAN GENOMES",
+      "location": "Big sky, MT",
+      "type": "Poster"
+    },
+    {
+      "name": "Genome-wide Analysis of Endogenous Retroviruses in Myotis lucifugus.",
+      "date": "2012",
+      "conference": "3rd international conference and workshop of Genomic Impact of Eukaryotic Transposable Elements",
+      "location": "Asilomar, CA",
+      "type": "Poster"
+    }
+  ],
   "publications": [
     {
       "name": "Genome-wide characterization of endogenous retroviruses in the bat Myotis lucifugus reveals recent and diverse infections.",
       "releaseDate": "2013-08",
       "publisher": "Journal of Virology",
       "url": "http://jvi.asm.org/cgi/doi/10.1128/JVI.00892-13"
-    }
-  ],
-  "presentations": [
-    {
-      "name": "Is it Me You're Looking For? Multi-Platform and Cross-Site evaluatioon of Technologies and Methods Used for DNA Methylation Profiling.",
-      "Date": "2024",
-      "conference": "ABRF annual meeting",
-      "location": "Minneapolis, MN",
-      "type": "Invited talk"
     }
   ],
   "awards": [

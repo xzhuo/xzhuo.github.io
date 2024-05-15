@@ -103,6 +103,8 @@ layout: default
                   {% include resume/certificates.liquid %}
                 {% when 'references' %}
                   {% include resume/references.liquid %} {% endcomment %}
+                {% when 'presentations' %}
+                  {% include resume/presentations.liquid %}
                 {% when 'publications' %}
                   {% comment %} {% include resume/publications.liquid %} {% endcomment %}
                   {{ content }}

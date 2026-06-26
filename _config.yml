@@ -105,7 +105,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: Xiaoyu Zhuo # blog_name will be displayed in your blog page
-blog_description: Something about me.
+blog_description: A serious scientist with unserious demeanor.
 permalink: /blog/:year/:title/
 
 # Pagination

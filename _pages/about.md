@@ -17,3 +17,5 @@ social: true # includes social icons at the bottom of the page
 ---
 
 I am an evolutionary biologist interested in understanding the impact of structural variations, especially transposable element insertions, to evolution. I am currently working for Dr. Ting Wang at Washington University in St. Louis.
+
+A serious scientist with unserious demeanor.
